@@ -1,0 +1,4 @@
+image/
+*.csv
+image.zip
+model.pt
